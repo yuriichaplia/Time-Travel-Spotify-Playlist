@@ -14,8 +14,8 @@ A Python project that creates Spotify playlists from the Billboard Hot 100 chart
 ## Requirements
 - Python 3.10+
 - Spotify Developer account & app credentials
-- `.env` file containing:
-CLIENT_ID=your_spotify_client_id
+- `.env` file containing:<br>
+CLIENT_ID=your_spotify_client_id<br>
 CLIENT_SECRET=your_spotify_client_secret
 REDIRECT_URL=http://localhost:8888/callback
 AGENT=Mozilla/5.0
